@@ -63,6 +63,13 @@ docker start :-
         The docker start command is used to start an existing, stopped container.
         docker start <container name>
 
+
+docker ps vs docker ps -a :
+    docker ps show currnt running container and docker ps -a shows all the running stopped container.
+
+dcoker image layer :
+    dcoker image layers are basically the command we write in docker file each command represet the layer which excute on top of each other. trying to multiple command  in single line reduct image size and build time. 
+
 -
 
 ## Things that confused me / took time to click
@@ -74,7 +81,8 @@ docker start :-
 ```
 
 ## Practice log
-- [ ] Pulled and ran `hello-world`
-- [ ] Pulled and ran `nginx`, accessed it in browser
+- [X] Pulled and ran `hello-world`
+<!-- https://hub.docker.com/search -->
+- [X] Pulled and ran `nginx`, accessed it in browser
 - [ ] Pulled and ran `mysql`, connected to it
 - [ ] Practiced starting/stopping/removing containers
