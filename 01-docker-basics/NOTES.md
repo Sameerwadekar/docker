@@ -84,5 +84,6 @@ dcoker image layer :
 - [X] Pulled and ran `hello-world`
 <!-- https://hub.docker.com/search -->
 - [X] Pulled and ran `nginx`, accessed it in browser
-- [ ] Pulled and ran `mysql`, connected to it
-- [ ] Practiced starting/stopping/removing containers
+<!-- https://hub.docker.com/_/mysql -->
+- [X] Pulled and ran `mysql`, connected to it
+- [X] Practiced starting/stopping/removing containers :- Start,Stop,ps,ps -a,rm
