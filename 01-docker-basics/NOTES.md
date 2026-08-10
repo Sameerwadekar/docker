@@ -1,6 +1,6 @@
 # Phase 1: Docker Basics
 
-**Status:** almost done
+**Status:** done
 **Dates:** 
 july 31 2026 done still docker ps and docker ps -a
 
